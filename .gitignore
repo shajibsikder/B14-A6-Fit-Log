@@ -1,0 +1,24 @@
+# Next.js build
+.next/
+out/
+build/
+dist/
+
+# dependencies
+node_modules/
+
+# logs
+*.log
+npm-debug.log*
+
+# env
+.env*.local
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# temp
+temp_repo
+temp_repo6
