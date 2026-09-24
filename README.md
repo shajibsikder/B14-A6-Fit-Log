@@ -6,7 +6,7 @@ A dark, no-nonsense gym companion and workout planning web application built wit
 
 ## 🚀 Live Demo & Repository
 - **GitHub Repository**: [https://github.com/shajibsikder/B14-A6-Fit-Log](https://github.com/shajibsikder/B14-A6-Fit-Log)
-- **Live Site**: (Your deployed Vercel / Netlify URL here)
+- **Live Site**: [https://b14-a6-fit-log-eta.vercel.app/](https://b14-a6-fit-log-eta.vercel.app/)
 
 ---
 
